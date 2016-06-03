@@ -1,0 +1,7 @@
+Interfaz: Proyecto Eclpise hecho en java conneccion con mysql
+
+SQL: script de creacion,procedumientos,consutas y 3 batch correspondientes
+a los 3 cursores. los batch no se pudieron enviar por cuestiones de seguirdad
+de la plataforma del correo
+
+Presentacion. presentacion dle proyecto.
